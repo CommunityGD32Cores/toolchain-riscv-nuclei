@@ -1,0 +1,21 @@
+{
+    "name": "toolchain-riscv-nuclei",
+    "version": "1.1.0",
+    "description": "Nuclei RISC-V toolchain",
+    "keywords": [
+        "build tools",
+        "compiler",
+        "assembler",
+        "linker",
+        "preprocessor",
+        "risc-v"
+    ],
+    "license": "GPL-2.0-or-later",
+    "system": [
+        "linux_x86_64"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/riscv-mcu/riscv-gnu-toolchain"
+    }
+}
